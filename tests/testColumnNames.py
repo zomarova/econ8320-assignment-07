@@ -19,6 +19,6 @@ lego2019 = pd.read_csv("lego2019.csv")
 class testCases(unittest.TestCase):
 
     def testColnames(self):
-      truth = pd.read_csv("otherFiles/answer.csv")
+      truth = pd.read_csv("tests/files/answer.csv")
 
       self.assertTrue(all(truth.columns[i] == lego2019.columns[i] for i in range(len(truth.columns))), "Your dataset does not contain all of the required columns.")
