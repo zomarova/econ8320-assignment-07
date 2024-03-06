@@ -19,6 +19,6 @@ lego2019 = pd.read_csv("lego2019.csv")
 class testCases(unittest.TestCase):
 
     def testSetnames(self):
-      truth = pd.read_csv("/tests/files/answer.csv")
+      truth = pd.read_csv("tests/files/answer.csv")
 
       self.assertTrue(all(list(truth['Set'])[i] == list(lego2019['Set'])[i] for i in range(20)), "The sets you scraped do not match the sets on the results page.")
