@@ -1,101 +1,126 @@
 Set,Price_Euro,Pieces,Minifigs
-Corner Garage,,,
-Ford Mustang,,,
-NASA Apollo 11 Lunar Lander,,,
-Gingerbread House,,,
-Harley-Davidson Fat Boy,,,
-Woody & RC,,,
-Duke Caboom's Stunt Show,,,
-Buzz and Bo Peep's Playground Adventure,,,
-RV Vacation,,,
-Buzz & Woody's Carnival Mania!,,,
-Carnival Thrill Coaster,,,
-My First Tow Truck,,,
-My First Balancing Animals,,,
-My First Fun Puzzle,,,
-My First Car Creations,,,
-Creative Fun,,,
-Mickey's Vacation House,,,
-Spider-Man vs. Electro,,,
-Toy Story Train,,,
-Emmet and Lucy's Visitors from the DUPLO Planet,,,
-My First Minnie Build,,,
-My First Mickey Build,,,
-Frozen Ice Castle,,,
-Police Bike,,,
-Fire Truck,,,
-Police Station,,,
-Fire Station,,,
-Baby Animals,,,
-Tropical Island,,,
-World Animals,,,
-Plane,,,
-Submarine Adventure,,,
-Bricks and Ideas,,,
-Basic Brick Set,,,
-Bricks and Eyes,,,
-Windows of Creativity,,,
-Creative Fun,,,
-Build Your Own Adventure Galactic Missions parts,,,
-The Book of Bedtime Builds parts,,,
-Build Your Own Adventure parts,,,
-Christmas Ideas parts,,,
-Wooden Minifigure parts,,,
-San Francisco,,,
-Paris,,,
-Trafalgar Square,,,
-Empire State Building,,,
-Burj Khalifa,,,
-Minecraft Steve BigFig with Parrot,,,
-Minecraft Alex BigFig with Chicken,,,
-Minecraft Skeleton BigFig with Magma Cube,,,
-The End Battle,,,
-The Pirate Ship Adventure,,,
-The Wool Farm,,,
-The Blaze Bridge,,,
-The Creeper Mine,,,
-The Flintstones,,,
-Steamboat Willie,,,
-Tree House,,,
-Central Perk,,,
-Dinosaur Fossils,,,
-My First Duck,,,
+Corner Garage,,2569,twn356 twn357 twn358 twn359 twn360 twn361
+Ford Mustang,,1471,
+NASA Apollo 11 Lunar Lander,,1087,twn373 twn374
+Gingerbread House,,1477,hol168 hol169
+Harley-Davidson Fat Boy,,1023,
+Woody & RC,,69,toy016
+Duke Caboom's Stunt Show,,120,toy016 toy026
+Buzz and Bo Peep's Playground Adventure,,139,toy018 toy019 toy024
+RV Vacation,,178,toy017 toy022 toy023
+Buzz & Woody's Carnival Mania!,,230,toy018 toy019 toy020 toy021 toy025
+Carnival Thrill Coaster,,98,toy017 toy018
+My First Tow Truck,,11,
+My First Balancing Animals,,15,
+My First Fun Puzzle,,15,
+My First Car Creations,,34,
+Creative Fun,,120,47205pb056
+Mickey's Vacation House,,57,47394pb258 47394pb278 47394pb279
+Spider-Man vs. Electro,,29,47394pb192 47394pb270
+Toy Story Train,,21,47394pb274 47394pb275
+Emmet and Lucy's Visitors from the DUPLO Planet,,53,47205pb064 47205pb065
+My First Minnie Build,,10,
+My First Mickey Build,,9,
+Frozen Ice Castle,,59,47394pb276 47394pb277 dupsnowman01
+Police Bike,,8,47394pb261
+Fire Truck,,21,47205pb056 47394pb265
+Police Station,,38,47394pb262 47394pb263 47394pb264
+Fire Station,,76,47394pb272 47394pb273
+Baby Animals,,9,
+Tropical Island,,73,47205pb056 47394pb246 47394pb271
+World Animals,,121,47205pb066 47205pb067 47394pb249 47394pb266 47394pb267 47394pb268
+Plane,,12,47394pb260
+Submarine Adventure,,24,47394pb268 47394pb269
+Bricks and Ideas,,123,
+Basic Brick Set,,300,
+Bricks and Eyes,,451,
+Windows of Creativity,,450,
+Creative Fun,,900,
+Build Your Own Adventure Galactic Missions parts,,66,sw0762
+The Book of Bedtime Builds parts,,68,
+Build Your Own Adventure parts,,101,hp150
+Christmas Ideas parts,,41,
+Wooden Minifigure parts,,29,
+San Francisco,,565,
+Paris,,649,
+Trafalgar Square,,1197,
+Empire State Building,,1767,
+Burj Khalifa,,333,
+Minecraft Steve BigFig with Parrot,,159,
+Minecraft Alex BigFig with Chicken,,160,
+Minecraft Skeleton BigFig with Magma Cube,,142,
+The End Battle,,222,min066 min067
+The Pirate Ship Adventure,,386,min017 min068 min069
+The Wool Farm,,260,min009
+The Blaze Bridge,,372,min025 min070 min071
+The Creeper Mine,,834,min009 min012 min072 min073
+The Flintstones,,748,idea044 idea046 idea047 idea048
+Steamboat Willie,,751,idea049 idea050
+Tree House,,3036,idea052 idea053 idea054 idea055
+Central Perk,,1070,idea056 idea057 idea058 idea059 idea060 idea061 idea062
+Dinosaur Fossils,,910,idea063 idea064
+My First Duck,,6,
 Town Rescue - {Random Bag},,,
 Town Rescue - Bird,,,
 Town Rescue - Fireman,,,
 Town Rescue - Cat,,,
 Town Rescue - Policewoman,,,
 Town Rescue - Dog,,,
-Emmet's 'Piece' Offering,,,
-Fire ATV,,,
-Sky Police Jetpack,,,
-Race Boat,,,
-Popcorn Cart,,,
-Space Satellite,,,
-Naboo Starfighter,,,
-Snowspeeder,,,
-Minecraft Steve and Creeper Set,,,
-Tulips,,,
-Emma's Bumper Cars,,,
-Mia's Water Fun,,,
-Spider-Man's Mini Spider Crawler,,,
-Iron Man and Dum-E,,,
-Rex's Plantimal Ambush,,,
-Podracer,,,
-Lucy vs. Alien Invader,,,
-Mini Master-Building MetalBeard,,,
-Mini Master-Building Emmet,,,
-Sam-X,,,
-Ninja Workout,,,
-Fire Flight,,,
-Fish Free Builds - Make It Yours,,,
-Elsa's Winter Throne,,,
-Pelican,,,
-Race Car,,,
-Santa,,,
-Star-Stuck Emmet,,,
-SHAZAM!,,,
-Obi-Wan Kenobi - Collectable Minifigure,,,
-Futuristic Flyer,,,
-Dune Buggy,,,
-Deep Sea Creatures,,,
+Emmet's 'Piece' Offering,,44,tlm142
+Fire ATV,,39,cty0965
+Sky Police Jetpack,$3.99,33,cty0988 cty1003
+Race Boat,,34,cty1002
+Popcorn Cart,,43,cty0982
+Space Satellite,,36,cty1027
+Naboo Starfighter,,48,
+Snowspeeder,,49,
+Minecraft Steve and Creeper Set,,36,min009 min012
+Tulips,,90,
+Emma's Bumper Cars,,66,frnd303
+Mia's Water Fun,,28,frnd337
+Spider-Man's Mini Spider Crawler,,73,sh0038
+Iron Man and Dum-E,,38,sh0575
+Rex's Plantimal Ambush,,32,tlm144
+Podracer,,58,
+Lucy vs. Alien Invader,,44,tlm117
+Mini Master-Building MetalBeard,$4.99,42,tlm106
+Mini Master-Building Emmet,,49,tlm125
+Sam-X,,56,
+Ninja Workout,,31,njo514
+Fire Flight,,54,njo513
+Fish Free Builds - Make It Yours,,39,
+Elsa's Winter Throne,,42,dp071
+Pelican,,62,
+Race Car,,68,
+Santa,,67,
+Star-Stuck Emmet,,41,tlm105
+SHAZAM!,,5,sh0586
+Obi-Wan Kenobi - Collectable Minifigure,,12,sw1069
+Futuristic Flyer,,157,
+Dune Buggy,,147,
+Deep Sea Creatures,,230,
+Sunset Track Racer,,221,
+Underwater Robot,,207,
+Shuttle Transporter,,341,
+Helicopter Adventure,,114,
+Riverside Houseboat,,396,twn362 twn363
+Race Plane,,333,twn364
+Fairground Carousel,,595,twn376a twn377 twn378
+Twin-Rotor Helicopter,,569,twn375
+Townhouse Pet Shop & Café,,969,twn368 twn369 twn370
+Outback Cabin,,305,twn371 twn372
+Year of the Pig,,152,
+MSC Cruises,,181,
+Jet Fighter,,23,
+Caterpillar,,48,
+Viking Ship,,54,
+Ladybird,,27,
+Crane,,64,
+Frog,,39,
+Ice Cream Truck,,48,
+Racing Car,,50,
+Eagle,,56,
+UFO,,36,
+Wolf,,47,
+Penguin,,47,
+Battle of Hoth - 20th Anniversary Edition,,195,
